@@ -21,6 +21,9 @@ In my local MySQL database with dummy data:
     - Joinning too much tables will increase the cost of the query
     - I use subquery and union the subqueries result to prevent join too many tables
 
+# Time used
+Around 1 hour
 
 ## *Note
 Not sure the original query is correct or not as it return empty result while my enhanced query will return result. However, I think they does the same things which act as a search query across multiple tables.
+
